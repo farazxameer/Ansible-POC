@@ -5,4 +5,4 @@
   tasks:
 
   - name: install tomact
-    apt : name=tomcat state=installed
+    apt : name=tomcat7 state=installed
