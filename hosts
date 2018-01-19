@@ -1,3 +1,6 @@
+[lb]
+lb1 ansible_host=18.196.52.174
+
 [web]
 web1 ansible_host=18.196.97.73
 web2 ansible_host=18.196.137.174
