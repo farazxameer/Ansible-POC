@@ -4,5 +4,5 @@
 
   tasks:
 
-  - name: install nginx
-    apt : name=nginx state=installed 
+  - name: install tomact
+    apt : name=tomcat state=installed
