@@ -1,5 +1,5 @@
 ---
-- name: create jenkins jobs
+- name: Deploy Nginx
   hosts: web
   become: yes
   roles:
