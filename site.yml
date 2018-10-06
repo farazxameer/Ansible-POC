@@ -1,0 +1,7 @@
+---
+- name: create jenkins jobs
+  hosts: web
+  become: yes
+  roles:
+    - nginxrole
+
